@@ -1,0 +1,72 @@
+{
+    "0": [
+        {
+            " layoutDescription": "ELO - TCR2",
+            "layoutId": 42,
+            "layoutName": "ELO - TCR2",
+            "qtt": 100,
+            "qttCorrected": 0,
+            "qttValidated": 0
+        }
+    ],
+    "1": [
+        {
+            " layoutDescription": "ELO - TCR2",
+            "layoutId": 42,
+            "layoutName": "ELO - TCR2",
+            "qtt": 500,
+            "qttCorrected": 0,
+            "qttValidated": 0
+        }
+    ],
+    "2": [
+        {
+            " layoutDescription": "ELO - TCR2",
+            "layoutId": 42,
+            "layoutName": "ELO - TCR2",
+            "qtt": 1671,
+            "qttCorrected": 0,
+            "qttValidated": 0
+        }
+    ],
+    "3": [
+        {
+            " layoutDescription": "ELO - TCR2",
+            "layoutId": 42,
+            "layoutName": "ELO - TCR2",
+            "qtt": 22671,
+            "qttCorrected": 0,
+            "qttValidated": 0
+        }
+    ],
+    "4": [
+        {
+            " layoutDescription": "ELO - TCR2",
+            "layoutId": 40,
+            "layoutName": "ELO - TCR2",
+            "qtt": 212671,
+            "qttCorrected": 0,
+            "qttValidated": 0
+        }
+    ],
+    "5": [
+        {
+            " layoutDescription": "ELO - TCR2",
+            "layoutId": 40,
+            "layoutName": "ELO - TCR2",
+            "qtt": 212671,
+            "qttCorrected": 0,
+            "qttValidated": 0
+        }
+    ],
+    "6": [
+        {
+            " layoutDescription": "ELO - TCR2",
+            "layoutId": 40,
+            "layoutName": "ELO - TCR2",
+            "qtt": 212671,
+            "qttCorrected": 0,
+            "qttValidated": 0
+        }
+    ]
+}
