@@ -13,8 +13,6 @@
             "layoutId": 42,
             "layoutName": "ELO - TCR2",
             "qtt": 500,
-            "qttCorrected": 0,
-            "qttValidated": 0
         }
     ],
     "2": [
@@ -39,8 +37,6 @@
             "layoutId": 40,
             "layoutName": "ELO - TCR2",
             "qtt": 212671,
-            "qttCorrected": 0,
-            "qttValidated": 0
         }
     ],
     "5": [
