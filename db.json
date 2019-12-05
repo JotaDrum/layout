@@ -4,9 +4,7 @@
             " layoutDescription": "ELO - TCR2",
             "layoutId": 42,
             "layoutName": "ELO - TCR2",
-            "qtt": 100,
-            "qttCorrected": 0,
-            "qttValidated": 0
+            "qtt": 100
         }
     ],
     "1": [
@@ -24,9 +22,7 @@
             " layoutDescription": "ELO - TCR2",
             "layoutId": 42,
             "layoutName": "ELO - TCR2",
-            "qtt": 1671,
-            "qttCorrected": 0,
-            "qttValidated": 0
+            "qtt": 1671
         }
     ],
     "3": [
@@ -35,8 +31,6 @@
             "layoutId": 42,
             "layoutName": "ELO - TCR2",
             "qtt": 22671,
-            "qttCorrected": 0,
-            "qttValidated": 0
         }
     ],
     "4": [
@@ -55,8 +49,14 @@
             "layoutId": 40,
             "layoutName": "ELO - TCR2",
             "qtt": 212671,
-            "qttCorrected": 0,
-            "qttValidated": 0
+        }
+    ],
+    "6": [
+        {
+            " layoutDescription": "ELO - TCR2",
+            "layoutId": 40,
+            "layoutName": "ELO - TCR2",
+            "qtt": 212671,
         }
     ]
 }
